@@ -1,0 +1,501 @@
+id,created_at,updated_at,name,description,price,sale_price,in_stock,on_sale,category_id
+1,2021-08-23 01:27:14,2023-08-02 21:12:23,Natural nail polish,Natural nail polish - Explain want least around.,143.27,126.43,True,False,2
+2,2021-07-31 04:49:25,2023-08-02 02:01:31,Cozy baby carrier,Cozy baby carrier - Well third person whether so allow responsibility read.,182.15,132.27,True,False,6
+3,2022-09-09 04:11:42,2023-08-02 09:36:49,Outdoor fishing rod,Outdoor fishing rod - Require dream media billion institution someone mean strong.,208.59,148.06,True,True,8
+4,2022-05-18 21:57:04,2023-08-03 14:45:38,Practical teething toy,Practical teething toy - Finish road professional case interview within sea science.,115.59,102.75,False,True,6
+5,2020-03-25 03:32:07,2023-08-03 15:20:40,Classic earrings,Classic earrings - Town run yeah bring possible enough main source.,96.02,76.33,True,True,3
+6,2021-01-25 16:53:54,2023-08-03 16:37:55,High-tech headphones,High-tech headphones - Executive story right education foreign benefit sometimes.,45.64,40.44,False,False,7
+7,2021-03-27 08:29:51,2023-08-03 09:26:24,Natural cleaning cloth,Natural cleaning cloth - Never my all.,136.21,122.02,False,False,5
+8,2022-11-28 02:38:42,2023-08-03 21:45:30,Dazzling sneakers,Dazzling sneakers - His side give theory.,175.27,130.24,True,False,3
+9,2020-04-20 11:59:44,2023-08-02 04:19:31,Nourishing hair dryer,Nourishing hair dryer - Care will amount difference participant.,190.81,167.08,False,False,2
+10,2021-03-17 02:35:00,2023-08-01 04:58:29,Interactive building blocks,Interactive building blocks - Identify strong near civil sing its away.,242.13,205.22,False,False,4
+11,2022-10-22 21:07:12,2023-08-03 03:27:13,Comfy cat tree,Comfy cat tree - Type experience season example.,145.57,122.42,True,False,9
+12,2020-10-26 02:29:14,2023-08-02 19:13:07,Safe baby wipes,Safe baby wipes - Wait peace pattern provide positive language foreign minute.,233.93,168.03,False,False,5
+13,2022-06-10 10:01:06,2023-08-03 09:39:28,Interactive chew toy,Interactive chew toy - Cold authority lead.,83.94,72.86,False,True,9
+14,2021-10-26 21:32:50,2023-08-01 06:33:28,Entertaining building blocks,Entertaining building blocks - Seven offer gas also.,132.98,104.56,False,True,4
+15,2022-12-06 22:38:52,2023-08-01 06:15:39,Antibacterial disinfectant,Antibacterial disinfectant - Husband send apply successful.,125.06,106.37,True,False,5
+16,2021-11-24 12:28:55,2023-08-02 15:04:49,Paw-some hamster wheel,Paw-some hamster wheel - President dinner mean center size drive.,37.23,27.02,True,False,9
+17,2022-11-13 20:43:58,2023-08-03 19:42:17,Durable bicycle,Durable bicycle - Popular Democrat far opportunity lawyer drug.,73.9,52.49,False,False,8
+18,2023-06-10 13:34:30,2023-08-03 01:07:17,Fashionable watch,Fashionable watch - Public defense quickly go weight.,170.86,142.01,True,False,3
+19,2022-12-18 09:24:03,2023-08-03 15:01:49,Stylish earrings,Stylish earrings - Mrs PM that out eye a.,138.21,103.96,True,False,3
+20,2020-11-14 08:35:25,2023-08-04 05:57:01,Cutting-edge smartwatch,Cutting-edge smartwatch - Court minute third case.,94.65,70.26,False,True,7
+21,2023-03-25 02:53:41,2023-08-03 03:33:04,Trendy sneakers,Trendy sneakers - If year daughter against bank.,180.84,128.03,True,False,3
+22,2020-01-06 23:44:41,2023-08-04 06:28:32,Nourishing shampoo,Nourishing shampoo - Pass house step time.,64.19,50.6,False,True,2
+23,2022-08-04 12:22:14,2023-08-01 20:06:07,Invigorating toothbrush,Invigorating toothbrush - Discover practice food thought.,156.48,117.26,True,False,2
+24,2021-02-07 04:11:05,2023-08-02 05:51:09,Gentle shampoo,Gentle shampoo - Price hour from teach third enough.,173.14,141.53,False,False,2
+25,2021-06-29 19:33:44,2023-08-04 05:04:04,Interactive building blocks,Interactive building blocks - Option recent wall million pass federal old.,196.49,150.67,False,False,4
+26,2022-03-16 15:07:58,2023-08-02 03:25:11,Dazzling handbag,Dazzling handbag - Population most house any water have recently thousand.,157.07,112.41,True,False,3
+27,2022-01-07 06:13:18,2023-08-03 05:14:43,Creative board game,Creative board game - Necessary economic onto western so audience sound.,136.91,104.99,True,True,4
+28,2020-12-12 19:32:45,2023-08-02 01:16:26,Advanced smartwatch,Advanced smartwatch - Born skin activity.,148.01,127.62,True,True,7
+29,2021-02-12 00:00:51,2023-08-03 03:10:00,Odorless vitamin,Odorless vitamin - Including name event garden training positive.,243.12,203.1,True,True,5
+30,2020-12-20 06:00:27,2023-08-03 10:44:25,Sleek smartphone,Sleek smartphone - Strategy growth couple process.,127.97,114.4,True,False,7
+31,2023-05-26 02:42:10,2023-08-04 05:40:08,Functional curtain,Functional curtain - Husband scene vote hear throw reality medical.,164.72,123.88,True,True,1
+32,2023-06-13 20:21:16,2023-08-01 18:16:04,Soft high chair,Soft high chair - Off generation remain save section him door the.,143.19,126.82,True,False,6
+33,2023-06-12 02:47:17,2023-08-02 05:59:46,Nourishing razor,Nourishing razor - Every time number bed operation within staff.,249.57,186.44,False,False,2
+34,2020-02-18 09:09:59,2023-08-02 12:17:13,Innovative tablet,Innovative tablet - Month short sign coach fund.,220.74,168.24,False,False,7
+35,2021-01-06 01:29:31,2023-08-02 08:59:57,Refreshing moisturizer,Refreshing moisturizer - They company smile beautiful.,31.0,25.59,False,True,2
+36,2022-12-11 16:50:08,2023-08-01 07:57:16,Multifunctional gaming console,Multifunctional gaming console - Center water leave soldier would control tax.,135.07,115.5,False,True,7
+37,2023-07-03 14:06:41,2023-08-01 20:10:12,Sleek desk lamp,Sleek desk lamp - Condition gun firm station.,230.86,202.23,True,False,10
+38,2020-11-20 14:52:43,2023-08-01 15:49:01,Resilient bicycle,Resilient bicycle - Morning about water us hospital.,104.34,84.83,False,True,8
+39,2020-11-17 07:08:51,2023-08-02 18:56:37,Pet-friendly cat tree,Pet-friendly cat tree - Which just social itself.,217.61,161.67,True,True,9
+40,2021-03-27 05:29:32,2023-08-03 22:41:31,Refreshing nail polish,Refreshing nail polish - Citizen serve challenge.,155.77,129.16,False,True,2
+41,2023-01-16 18:36:51,2023-08-03 17:54:27,Breathable fishing rod,Breathable fishing rod - Drive she really hotel baby.,235.93,165.87,False,False,8
+42,2022-03-26 13:49:07,2023-08-02 00:48:45,Comfy grooming brush,Comfy grooming brush - Begin door long then history school.,167.95,132.28,True,True,9
+43,2020-06-09 04:47:50,2023-08-02 04:15:29,Reversible bib,Reversible bib - Eat that stuff resource share set treatment.,27.41,22.86,True,True,6
+44,2023-01-02 06:46:00,2023-08-01 22:53:25,Non-toxic first aid kit,Non-toxic first aid kit - Each describe you again.,10.14,8.73,True,True,5
+45,2022-06-30 02:48:52,2023-08-03 08:55:19,Stylish rug,Stylish rug - Seem can small dog anything.,118.98,86.54,True,True,1
+46,2022-09-08 07:54:33,2023-08-01 16:28:44,Outdoor soccer ball,Outdoor soccer ball - Factor eight stand north many agent step door.,130.99,103.2,False,False,8
+47,2022-04-08 02:27:58,2023-08-02 03:01:23,Reversible teething toy,Reversible teething toy - Fine today real role.,248.83,182.54,False,True,6
+48,2020-04-19 05:59:51,2023-08-03 12:14:31,Athletic running shoes,Athletic running shoes - Exactly capital argue yard on direction.,12.61,9.33,False,False,8
+49,2022-07-17 19:50:22,2023-08-02 16:16:29,Elegant lamp,Elegant lamp - Take moment thousand draw pattern small central.,172.75,152.54,False,False,1
+50,2020-09-07 00:38:01,2023-08-01 03:44:58,Lightweight fishing rod,Lightweight fishing rod - Thought anyone student move heart recognize such.,97.38,78.55,True,False,8
+51,2023-05-10 02:26:25,2023-08-03 18:37:39,Pet-safe dog bed,Pet-safe dog bed - Pm across laugh wait whether person.,201.16,174.46,True,False,9
+52,2023-07-28 17:05:15,2023-08-03 18:16:03,Refreshing hair dryer,Refreshing hair dryer - Now beyond want physical yourself involve benefit effort.,14.66,10.85,True,True,2
+53,2020-11-30 15:40:33,2023-08-02 17:26:13,Efficient desk lamp,Efficient desk lamp - Should could fire.,248.56,192.03,True,True,10
+54,2021-12-24 06:23:44,2023-08-02 04:04:12,Adorable baby monitor,Adorable baby monitor - Bad phone meeting instead tell heavy.,54.01,48.35,False,False,6
+55,2020-09-22 04:57:17,2023-08-01 16:31:13,Chic handbag,Chic handbag - Check Mr administration see much skin.,182.47,146.21,True,False,3
+56,2022-08-25 13:39:30,2023-08-02 04:19:40,Safe disinfectant,Safe disinfectant - White film whatever tell fear next he.,157.2,136.83,True,False,5
+57,2022-02-05 19:06:50,2023-08-02 14:40:34,Portable tablet,Portable tablet - Fill interesting focus early marriage even that.,249.37,203.95,False,True,7
+58,2022-12-05 02:02:52,2023-08-03 00:09:28,Versatile coffee maker,Versatile coffee maker - Check us blood star grow data.,226.66,185.35,False,False,1
+59,2023-01-02 12:02:24,2023-08-02 20:24:37,Easy-to-clean teething toy,Easy-to-clean teething toy - Series decision into international consumer north close truth.,37.34,30.88,False,True,6
+60,2022-09-04 15:25:41,2023-08-03 03:56:42,Healthy air purifier,Healthy air purifier - Material white north total program inside.,222.05,197.96,True,False,5
+61,2022-12-04 17:39:36,2023-08-01 20:47:12,Eco-friendly disinfectant,Eco-friendly disinfectant - Organization arrive phone Republican few.,186.54,151.36,False,True,5
+62,2021-07-06 23:02:27,2023-08-01 20:56:14,Odorless baby wipes,Odorless baby wipes - Amount most every join region civil different.,161.11,126.29,True,False,5
+63,2023-08-02 13:47:25,2023-08-03 07:35:44,Exciting educational toy,Exciting educational toy - Wait manager story development we establish strong agree.,73.94,66.05,True,True,4
+64,2020-08-17 07:01:44,2023-08-04 10:31:05,Cozy crib,Cozy crib - Less understand where speak skin Democrat.,114.65,90.43,False,True,6
+65,2020-10-19 05:36:00,2023-08-04 15:24:47,Adjustable teething toy,Adjustable teething toy - Sign attack century piece statement.,143.14,124.89,False,False,6
+66,2021-12-07 13:05:39,2023-08-01 12:38:01,Sleek blender,Sleek blender - Thought deal adult quality.,228.47,182.98,True,False,1
+67,2022-03-07 01:07:03,2023-08-01 06:37:57,Easy-to-clean diaper bag,Easy-to-clean diaper bag - Should car anything positive.,75.48,56.67,True,True,6
+68,2020-12-27 06:34:41,2023-08-03 16:30:18,Pet-friendly cat litter box,Pet-friendly cat litter box - Hair that yourself lot mother enough for.,28.33,25.39,True,True,9
+69,2022-07-17 18:57:22,2023-08-03 03:59:30,Gentle lipstick,Gentle lipstick - Fast parent whether.,141.71,113.35,False,False,2
+70,2020-07-10 13:51:01,2023-08-04 11:42:41,Reversible baby bottle,Reversible baby bottle - Begin yes face investment character tax.,144.81,109.38,False,False,6
+71,2021-06-04 20:46:28,2023-08-01 01:14:48,Entertaining ball,Entertaining ball - Democrat yet travel.,44.81,38.57,True,False,4
+72,2022-04-05 11:26:06,2023-08-01 18:43:49,Interactive grooming brush,Interactive grooming brush - Level yeah can bit establish.,125.4,95.72,True,True,9
+73,2021-11-24 15:06:04,2023-08-04 07:03:31,Stylish jeans,Stylish jeans - Threat sit certain indeed offer step full where.,218.49,192.92,False,False,3
+74,2021-05-26 14:42:35,2023-08-01 18:38:08,Cutting-edge laptop,Cutting-edge laptop - Goal benefit parent bed notice listen protect.,199.83,150.21,False,False,7
+75,2022-08-19 00:46:51,2023-08-02 00:30:01,Interactive board game,Interactive board game - Pick year prove father.,88.54,64.09,False,False,4
+76,2020-05-05 10:36:39,2023-08-02 23:01:44,Chewable dog bed,Chewable dog bed - Unit easy research prevent.,146.9,109.93,True,True,9
+77,2020-07-10 23:36:04,2023-08-02 20:36:28,Lightweight stroller,Lightweight stroller - Huge plant weight now than radio benefit.,83.54,69.52,True,False,6
+78,2022-02-06 00:41:27,2023-08-03 02:53:11,Portable baby monitor,Portable baby monitor - Hospital try policy arrive.,245.89,219.49,False,True,6
+79,2020-10-05 23:41:21,2023-08-03 17:05:13,Innovative smartphone,Innovative smartphone - Other per natural step walk join.,110.23,97.09,False,False,7
+80,2020-04-19 17:57:42,2023-08-03 13:45:41,Adjustable baby monitor,Adjustable baby monitor - As their movie dark north town.,128.55,110.93,False,True,6
+81,2022-03-13 23:36:09,2023-08-03 21:01:00,Fashionable sneakers,Fashionable sneakers - Need brother gas both task lead interest.,10.83,8.4,False,False,3
+82,2023-01-14 20:24:26,2023-08-01 11:37:01,Casual dress,Casual dress - Statement somebody push do drive type.,106.95,79.29,True,True,3
+83,2022-02-21 10:04:31,2023-08-02 10:17:41,Chewable cat tree,Chewable cat tree - Town environmental community effect your herself.,207.29,166.12,False,True,9
+84,2021-03-19 01:04:06,2023-08-03 12:33:50,Practical baby bottle,Practical baby bottle - Note under impact small responsibility cost according.,103.61,78.54,False,False,6
+85,2022-12-02 23:50:19,2023-08-02 15:35:23,Exciting ball,Exciting ball - Perform account pretty may region main.,15.31,11.25,True,False,4
+86,2022-04-10 02:23:26,2023-08-02 01:05:48,Reliable file folder,Reliable file folder - Quite pretty test single.,85.6,64.56,False,False,10
+87,2020-11-13 05:01:50,2023-08-02 05:49:25,Sleek blender,Sleek blender - Agree agree more clearly.,238.02,210.71,False,False,1
+88,2021-07-30 20:16:51,2023-08-01 13:17:39,Adorable diaper bag,Adorable diaper bag - Present able during responsibility.,67.5,48.4,False,False,6
+89,2021-02-18 21:49:57,2023-08-03 00:30:40,Sturdy dumbbells,Sturdy dumbbells - Third officer future later drug question.,229.3,161.76,True,False,8
+90,2020-07-31 20:46:05,2023-08-01 06:52:38,Gentle moisturizer,Gentle moisturizer - Unit wide operation soldier young another.,236.0,188.55,True,False,2
+91,2021-04-04 18:41:13,2023-08-02 11:04:37,Compact towel,Compact towel - Provide now other station.,27.07,23.24,False,True,1
+92,2023-01-24 05:57:40,2023-08-04 02:14:13,Fragrant hair dryer,Fragrant hair dryer - Avoid goal hold idea be ask memory civil.,106.08,95.26,True,True,2
+93,2022-01-21 22:27:00,2023-08-04 06:41:56,Casual jeans,Casual jeans - Likely professor physical write collection ready.,143.27,126.77,True,True,3
+94,2020-03-01 15:55:11,2023-08-04 06:13:16,Entertaining cat litter box,Entertaining cat litter box - Rather out particularly poor.,78.39,55.71,True,True,9
+95,2021-07-18 09:01:53,2023-08-01 05:36:27,Classic dress,Classic dress - Company stuff traditional determine fly kitchen.,58.37,41.88,False,True,3
+96,2021-09-27 19:27:36,2023-08-03 13:49:29,Sleek desk organizer,Sleek desk organizer - Behavior last take fund learn.,123.58,108.68,True,False,10
+97,2021-02-27 07:27:10,2023-08-02 14:27:50,Paw-some aquarium,Paw-some aquarium - Strategy fill garden view.,178.52,144.76,True,True,9
+98,2022-05-11 05:45:22,2023-08-02 16:25:42,Organized desk lamp,Organized desk lamp - Training to lot drive wife.,167.69,134.52,True,True,10
+99,2022-01-13 20:58:05,2023-08-04 15:17:37,Invigorating razor,Invigorating razor - Use everybody not into newspaper animal player father.,234.43,192.28,False,False,2
+100,2021-05-01 22:55:28,2023-08-03 16:50:11,Lightweight baby bottle,Lightweight baby bottle - Religious measure gas difficult.,214.0,172.79,True,False,6
+101,2022-08-26 07:42:13,2023-08-03 10:46:21,Invigorating conditioner,Invigorating conditioner - Trouble theory finish relationship.,146.48,122.9,True,True,2
+102,2023-04-29 22:13:43,2023-08-02 19:53:35,Waterproof yoga mat,Waterproof yoga mat - Either sell her contain friend.,194.07,141.9,True,True,8
+103,2021-05-01 15:19:11,2023-08-03 13:26:07,Breathable yoga mat,Breathable yoga mat - Try member prepare.,245.36,198.71,False,True,8
+104,2021-10-19 22:13:45,2023-08-03 22:47:51,Fashionable earrings,Fashionable earrings - Cut serve his lead wish though.,28.34,22.68,False,True,3
+105,2021-11-30 06:05:26,2023-08-01 15:23:58,Gentle toothbrush,Gentle toothbrush - Able program none just.,193.6,160.66,False,False,2
+106,2021-10-09 06:24:59,2023-08-01 17:24:06,Ergonomic cutting board,Ergonomic cutting board - Check movement get career put.,11.06,9.72,False,False,1
+107,2020-07-07 11:22:40,2023-08-04 14:34:26,Versatile cutting board,Versatile cutting board - Paper piece idea usually success.,215.75,152.03,False,True,1
+108,2022-07-24 22:30:54,2023-08-02 06:06:07,Hypoallergenic disinfectant,Hypoallergenic disinfectant - Yet prove main board question describe when.,156.96,120.56,False,True,5
+109,2021-11-08 13:24:07,2023-08-02 08:07:36,User-friendly bluetooth speaker,User-friendly bluetooth speaker - Music game approach history less way set.,81.4,72.67,True,True,7
+110,2021-03-07 19:35:08,2023-08-03 07:12:59,Nourishing conditioner,Nourishing conditioner - Design check box south professional goal challenge history.,130.07,109.81,True,True,2
+111,2021-02-06 09:53:50,2023-08-02 14:27:39,Elegant dress,Elegant dress - Maybe rule discuss fall join.,132.67,113.74,True,False,3
+112,2021-07-29 06:50:11,2023-08-02 05:13:42,Athletic fishing rod,Athletic fishing rod - During woman six professional traditional.,239.16,204.31,False,True,8
+113,2022-04-21 00:51:00,2023-08-04 03:39:16,Ergonomic curtain,Ergonomic curtain - Summer although think expect check dinner test.,32.91,24.09,True,False,1
+114,2020-11-09 16:52:06,2023-08-02 23:43:28,Breathable yoga mat,Breathable yoga mat - National behavior rest door cost.,136.43,120.67,False,True,8
+115,2020-01-12 10:14:50,2023-08-03 01:46:17,Adorable high chair,Adorable high chair - Tonight choice society defense move.,130.2,101.42,False,False,6
+116,2020-09-07 14:15:39,2023-08-02 03:08:59,Eco-friendly laundry detergent,Eco-friendly laundry detergent - Suffer base role wear recent.,191.79,144.27,True,True,5
+117,2021-06-04 08:43:54,2023-08-03 07:31:57,Versatile pillow,Versatile pillow - Help crime start treatment subject these.,33.91,25.96,False,True,1
+118,2022-05-18 03:00:23,2023-08-01 21:00:49,Sleek desk organizer,Sleek desk organizer - Medical allow certainly strategy cost why choice.,176.09,126.46,True,False,10
+119,2020-08-06 05:10:56,2023-08-02 09:02:34,Hydrating toothbrush,Hydrating toothbrush - Shoulder scene miss energy.,78.15,58.97,False,False,2
+120,2023-01-09 08:08:36,2023-08-03 08:25:06,Durable bird cage,Durable bird cage - Mission source woman administration by.,124.81,100.44,False,True,9
+121,2020-09-04 00:01:30,2023-08-01 06:23:04,Engaging playset,Engaging playset - Shake positive model arm everything.,242.91,172.75,True,True,4
+122,2021-10-25 16:40:56,2023-08-01 16:27:22,Ergonomic lamp,Ergonomic lamp - Weight serious dog audience difference those part people.,36.35,30.93,False,True,1
+123,2023-05-24 14:08:39,2023-08-01 23:10:02,Portable teething toy,Portable teething toy - However top crime box its until draw.,43.93,31.99,False,True,6
+124,2022-02-07 06:57:57,2023-08-02 17:44:00,Fun stuffed animal,Fun stuffed animal - Ago finish win probably follow.,111.71,78.84,True,False,4
+125,2020-09-01 17:56:12,2023-08-02 17:36:35,Active fishing rod,Active fishing rod - Leader easy throw.,64.09,47.11,True,True,8
+126,2021-05-24 22:57:52,2023-08-02 02:00:09,Adventure-ready yoga mat,Adventure-ready yoga mat - Our home increase.,100.61,82.58,False,False,8
+127,2020-01-25 13:04:34,2023-08-03 10:16:14,Eco-friendly toothpaste,Eco-friendly toothpaste - Realize mouth might television whether young suggest.,179.12,160.43,True,False,5
+128,2023-02-08 20:33:31,2023-08-02 14:29:28,Professional ballpoint pen,Professional ballpoint pen - Above American economic long.,87.19,77.96,False,True,10
+129,2021-09-11 04:03:02,2023-08-04 14:25:02,Pet-safe food bowl,Pet-safe food bowl - Office foreign gas quickly discuss factor several.,134.48,106.94,False,False,9
+130,2022-05-18 04:37:24,2023-08-02 15:32:18,Durable cutting board,Durable cutting board - Rise majority everybody get explain.,111.56,86.25,True,False,1
+131,2022-11-01 10:46:08,2023-08-01 22:58:57,Elegant sneakers,Elegant sneakers - Visit anyone poor.,166.2,116.62,True,False,3
+132,2020-10-19 05:29:39,2023-08-03 03:14:35,Reliable desk lamp,Reliable desk lamp - Claim keep stuff true.,42.04,31.84,False,True,10
+133,2020-12-17 20:55:09,2023-08-02 20:10:51,Modern towel,Modern towel - Four collection front nice party usually whatever.,86.06,69.26,False,True,1
+134,2021-03-09 15:35:31,2023-08-01 17:04:01,Effective toothpaste,Effective toothpaste - Interest identify attorney hold push too.,107.18,89.81,False,True,5
+135,2020-10-27 09:16:39,2023-08-01 16:35:46,Comfortable crib,Comfortable crib - Exactly by quite political half against.,202.34,167.08,False,True,6
+136,2020-01-18 01:42:42,2023-08-02 19:17:42,Lightweight yoga mat,Lightweight yoga mat - Short collection raise loss public determine religious sense.,205.36,163.3,False,True,8
+137,2021-06-15 05:58:33,2023-08-04 03:50:22,Sturdy soccer ball,Sturdy soccer ball - Still future finish young include do.,69.79,54.76,False,True,8
+138,2021-06-22 22:05:49,2023-08-01 04:38:04,Breathable camping tent,Breathable camping tent - Report mean know detail trade.,119.13,98.61,False,True,8
+139,2021-02-21 06:14:48,2023-08-04 01:30:28,Innovative bluetooth speaker,Innovative bluetooth speaker - President public development music relationship try positive.,177.64,152.85,True,False,7
+140,2022-11-19 16:03:10,2023-08-04 10:41:46,Cutting-edge camera,Cutting-edge camera - Create according past month.,187.19,161.59,True,False,7
+141,2022-04-23 09:23:40,2023-08-02 16:38:00,Sleek rug,Sleek rug - Policy ok several hundred everybody as write.,11.14,8.15,True,True,1
+142,2020-07-27 05:48:48,2023-08-03 19:01:56,Entertaining food bowl,Entertaining food bowl - Cold wonder story population decision learn either factor.,242.53,175.47,True,True,9
+143,2023-03-15 07:58:26,2023-08-01 04:28:36,Compact dinner set,Compact dinner set - Music drive seven.,57.82,48.43,True,False,1
+144,2021-03-25 20:19:15,2023-08-01 17:38:23,Adjustable baby bottle,Adjustable baby bottle - Until claim economic ago.,193.37,158.22,True,True,6
+145,2020-04-29 17:07:29,2023-08-02 08:23:00,Odor-resistant aquarium,Odor-resistant aquarium - Alone market draw yourself art.,152.57,135.46,False,True,9
+146,2022-09-14 01:17:11,2023-08-04 16:01:21,Elegant towel,Elegant towel - Discuss bank large while may the much dinner.,177.42,158.89,False,False,1
+147,2021-08-08 22:21:53,2023-08-03 10:03:25,Reversible baby bottle,Reversible baby bottle - Relate citizen kitchen market important.,77.71,68.67,True,True,6
+148,2020-06-16 11:00:30,2023-08-02 10:08:40,Productive paper shredder,Productive paper shredder - Strong sometimes door none tell focus.,32.32,26.4,False,False,10
+149,2021-01-24 19:05:05,2023-08-04 14:21:10,Chewable aquarium,Chewable aquarium - Color responsibility scene.,208.66,175.39,True,True,9
+150,2021-01-09 16:27:24,2023-08-03 04:39:12,Durable swimming goggles,Durable swimming goggles - Surface seven space.,227.24,174.44,True,False,8
+151,2021-09-20 15:04:14,2023-08-04 07:53:52,Chic handbag,Chic handbag - List late work day significant.,132.57,108.95,True,True,3
+152,2020-05-25 21:01:15,2023-08-02 18:28:51,Refreshing nail polish,Refreshing nail polish - Receive occur buy attention peace.,135.14,108.54,False,True,2
+153,2022-03-20 13:46:44,2023-08-02 07:46:50,Nourishing perfume,Nourishing perfume - Particular government today play plant either resource.,10.93,9.0,True,False,2
+154,2020-11-16 14:05:26,2023-08-02 01:30:36,Soft bib,Soft bib - Per goal reason.,211.0,160.88,False,True,6
+155,2020-12-18 08:11:52,2023-08-02 03:46:08,Elegant rug,Elegant rug - Interview mission huge anyone star wrong.,26.71,21.91,False,True,1
+156,2020-03-18 21:58:55,2023-08-02 23:17:38,Durable pet carrier,Durable pet carrier - Operation especially since money.,124.94,101.39,True,False,9
+157,2021-05-03 00:34:38,2023-08-03 09:17:34,Adventure-ready dumbbells,Adventure-ready dumbbells - Develop second black spend.,223.13,160.7,False,False,8
+158,2020-05-14 18:01:50,2023-08-01 23:16:58,Nourishing face mask,Nourishing face mask - Try entire site community civil several see agent.,118.07,97.91,False,False,2
+159,2022-08-18 21:32:40,2023-08-03 10:03:02,Durable hamster wheel,Durable hamster wheel - Center they raise recognize center read staff.,199.01,148.04,True,False,9
+160,2022-10-26 10:53:32,2023-08-03 02:51:00,Comfortable baby bottle,Comfortable baby bottle - Like while recently chance week tough cause.,164.68,144.13,False,False,6
+161,2020-07-31 20:57:06,2023-08-04 02:40:55,Sleek stapler,Sleek stapler - Third recently describe brother occur.,146.81,116.9,True,False,10
+162,2022-07-24 18:14:27,2023-08-04 07:07:16,High-tech tv,High-tech tv - Institution when summer office something customer.,42.21,30.83,False,True,7
+163,2021-12-31 18:57:12,2023-08-01 11:46:53,Athletic fishing rod,Athletic fishing rod - Fact change general foot camera training.,175.78,139.82,True,False,8
+164,2023-01-22 23:20:12,2023-08-02 11:02:50,Entertaining aquarium,Entertaining aquarium - Administration pick tend meeting while Democrat manage certainly.,72.44,56.53,False,False,9
+165,2022-06-08 20:41:36,2023-08-01 05:28:26,Interactive building blocks,Interactive building blocks - Do cup improve parent customer blood.,141.3,115.52,True,True,4
+166,2023-03-29 04:33:44,2023-08-03 11:39:07,Odor-resistant bird cage,Odor-resistant bird cage - Prevent feel listen social share size nation.,117.12,97.64,False,False,9
+167,2021-09-09 22:12:49,2023-08-01 11:24:41,Multifunctional gaming console,Multifunctional gaming console - Next fine up cell mention special.,93.05,68.67,False,False,7
+168,2022-10-20 01:09:36,2023-08-01 14:05:06,Practical desk lamp,Practical desk lamp - Military Republican almost fine.,48.17,36.69,False,True,10
+169,2020-01-09 01:34:06,2023-08-03 22:01:48,Pet-friendly hamster wheel,Pet-friendly hamster wheel - Near class east everybody letter.,133.36,99.58,True,True,9
+170,2022-07-28 23:12:02,2023-08-01 23:17:33,Compact lamp,Compact lamp - Almost audience pass such pass edge admit.,151.41,116.13,True,True,1
+171,2023-03-12 21:26:31,2023-08-01 11:39:46,Durable running shoes,Durable running shoes - Economic card store matter.,235.24,195.54,True,False,8
+172,2022-03-14 14:07:39,2023-08-03 12:14:04,Trendy handbag,Trendy handbag - Administration officer heavy need want.,20.57,15.38,False,False,3
+173,2021-07-15 18:22:14,2023-08-02 19:54:56,Interactive hamster wheel,Interactive hamster wheel - Get middle happy ability mention anything his.,17.6,14.85,False,True,9
+174,2021-05-11 03:53:44,2023-08-02 22:25:44,Furry cat litter box,Furry cat litter box - Marriage chair now student success there look.,130.5,115.75,False,False,9
+175,2023-05-28 12:55:24,2023-08-01 00:56:52,Educational educational toy,Educational educational toy - Reality rate economic fly difficult investment.,82.89,66.2,False,True,4
+176,2022-12-10 03:01:47,2023-08-03 20:08:06,Cutting-edge camera,Cutting-edge camera - Again mention simply look just.,75.77,60.22,True,True,7
+177,2021-11-12 14:20:59,2023-08-01 17:24:07,Chewable bird cage,Chewable bird cage - Rest interesting sense environment strong image.,48.83,40.27,False,False,9
+178,2022-11-29 13:22:27,2023-08-01 07:02:15,Entertaining educational toy,Entertaining educational toy - Traditional thousand hope describe.,101.25,90.1,True,False,4
+179,2023-05-15 21:53:42,2023-08-01 12:02:02,Chic sunglasses,Chic sunglasses - Manager sound build decide key Congress.,216.64,162.43,False,True,3
+180,2021-05-21 07:38:25,2023-08-02 22:59:49,Functional towel,Functional towel - Store situation international next she analysis.,71.64,56.14,False,False,1
+181,2021-09-20 15:18:31,2023-08-02 20:13:22,Innovative tablet,Innovative tablet - Happy market child may expert majority decision.,201.76,145.95,False,True,7
+182,2022-01-06 01:30:13,2023-08-03 14:18:15,Sleek sticky notes,Sleek sticky notes - Good always time.,213.5,177.46,False,False,10
+183,2020-04-07 02:44:39,2023-08-01 19:07:01,Eco-friendly laundry detergent,Eco-friendly laundry detergent - Officer model step very.,77.34,54.65,False,False,5
+184,2020-12-10 12:33:24,2023-08-04 04:46:45,Professional notebooks,Professional notebooks - Several clear impact bad.,39.62,35.29,True,True,10
+185,2023-02-26 14:24:48,2023-08-03 07:49:13,Innovative headphones,Innovative headphones - Art appear lose carry.,50.34,36.91,False,True,7
+186,2021-01-29 15:01:28,2023-08-03 18:00:55,Antibacterial diaper,Antibacterial diaper - Card somebody man kind organization box box.,109.41,90.45,False,False,5
+187,2021-12-16 03:57:25,2023-08-01 22:17:40,Functional whiteboard,Functional whiteboard - Man claim early consider place product.,77.33,63.61,True,True,10
+188,2020-07-03 11:03:08,2023-08-01 12:18:02,Chic jeans,Chic jeans - Together bar cost floor I value.,248.29,188.12,True,False,3
+189,2020-08-27 15:22:57,2023-08-01 11:26:49,Hypoallergenic laundry detergent,Hypoallergenic laundry detergent - Pay style character draw question almost talk strong.,100.2,89.93,True,False,5
+190,2023-07-11 10:48:44,2023-08-01 01:31:20,Lightweight baby bottle,Lightweight baby bottle - From act authority most keep.,23.76,19.39,False,True,6
+191,2021-05-11 08:18:55,2023-08-01 01:40:00,Exciting action figure,Exciting action figure - Speech smile voice often hand I song.,210.0,180.92,True,False,4
+192,2021-11-20 23:24:26,2023-08-04 11:55:08,Resilient camping tent,Resilient camping tent - Truth operation camera management so.,76.9,53.93,True,False,8
+193,2022-01-02 22:15:34,2023-08-01 16:02:07,Multifunctional camera,Multifunctional camera - Something market culture try religious read name.,234.76,200.01,True,False,7
+194,2021-02-09 18:06:49,2023-08-02 21:15:32,User-friendly gaming console,User-friendly gaming console - Allow generation ability particular career.,48.53,34.65,True,False,7
+195,2023-04-20 00:38:45,2023-08-02 02:40:01,Entertaining cat litter box,Entertaining cat litter box - Feeling court red north scene movie learn.,188.48,151.39,False,False,9
+196,2023-01-30 10:13:42,2023-08-01 02:33:38,User-friendly camera,User-friendly camera - Become change contain movie family.,60.49,52.74,False,False,7
+197,2022-04-23 23:40:16,2023-08-02 04:27:28,Casual jacket,Casual jacket - Another save father coach smile moment her everybody.,169.57,143.87,False,False,3
+198,2022-09-17 18:37:26,2023-08-02 18:47:31,Cozy bib,Cozy bib - Employee have performance want new customer partner.,172.67,142.84,True,False,6
+199,2022-04-18 05:05:34,2023-08-02 23:30:01,Effective air purifier,Effective air purifier - Whose condition to.,213.9,186.25,False,True,5
+200,2022-05-04 23:31:29,2023-08-03 10:51:26,Refreshing nail polish,Refreshing nail polish - Stand sense determine science article.,17.4,14.79,False,True,2
+201,2022-04-01 16:48:34,2023-08-04 02:44:36,Challenging building blocks,Challenging building blocks - Where industry bad.,211.17,169.88,False,True,4
+202,2022-03-12 16:13:17,2023-08-04 05:07:11,Interactive puzzle,Interactive puzzle - Model before writer travel yeah bill.,93.58,77.59,True,False,4
+203,2023-06-19 02:33:04,2023-08-03 20:07:37,High-tech wireless earbuds,High-tech wireless earbuds - Hospital gas teacher leader board budget must.,88.22,67.42,False,True,7
+204,2022-01-05 19:59:56,2023-08-01 01:42:24,Outdoor dumbbells,Outdoor dumbbells - Drop force fast newspaper.,62.68,49.02,False,True,8
+205,2021-08-05 15:54:41,2023-08-01 09:30:25,Adjustable stroller,Adjustable stroller - Style Congress first much picture lot.,121.43,91.3,False,True,6
+206,2021-05-02 10:27:58,2023-08-02 00:07:21,Durable running shoes,Durable running shoes - Per there either need over its.,199.4,177.5,False,False,8
+207,2022-10-24 02:48:09,2023-08-01 22:35:07,Modern coffee maker,Modern coffee maker - Tough exist line recognize yourself.,106.63,95.79,False,True,1
+208,2021-08-24 22:01:26,2023-08-04 03:24:33,Premium cutting board,Premium cutting board - Anything painting special him cell generation.,157.43,119.56,True,False,1
+209,2023-01-15 15:57:33,2023-08-02 06:45:05,Gentle lipstick,Gentle lipstick - Lead worry life market down.,55.39,43.16,True,False,2
+210,2022-12-22 20:07:44,2023-08-03 09:07:40,Hydrating shampoo,Hydrating shampoo - Assume blue adult unit describe manage.,134.76,112.89,False,True,2
+211,2021-06-28 00:18:22,2023-08-01 17:00:24,Advanced tablet,Advanced tablet - High line give their research.,202.98,160.59,True,True,7
+212,2023-01-31 08:44:37,2023-08-01 12:28:38,Organized calculator,Organized calculator - Forget federal discussion should.,208.4,175.06,False,False,10
+213,2022-03-29 12:05:15,2023-08-03 15:22:07,High-tech laptop,High-tech laptop - Discuss win hope person.,243.26,209.23,False,True,7
+214,2022-02-15 16:36:41,2023-08-03 09:06:10,Soft pacifier,Soft pacifier - Avoid moment seek assume.,46.31,40.12,True,False,6
+215,2022-05-02 13:07:10,2023-08-01 23:12:18,Entertaining bird cage,Entertaining bird cage - Bit everything democratic whom vote.,62.43,47.03,True,False,9
+216,2020-05-05 17:08:47,2023-08-01 09:53:11,Antibacterial disinfectant,Antibacterial disinfectant - Forget account stuff first effect.,221.6,179.73,True,False,5
+217,2022-09-13 06:51:13,2023-08-02 22:59:41,Easy-to-clean crib,Easy-to-clean crib - Thing control film item.,80.19,66.04,False,False,6
+218,2021-03-29 06:06:28,2023-08-01 13:05:39,Ergonomic lamp,Ergonomic lamp - Purpose law her along into collection.,56.41,44.67,True,False,1
+219,2022-05-28 17:49:59,2023-08-04 05:58:52,Cozy high chair,Cozy high chair - Outside thousand professor focus land talk.,95.05,79.44,False,True,6
+220,2022-02-14 04:01:22,2023-08-01 20:18:26,Nourishing toothbrush,Nourishing toothbrush - Agree science five certain tonight song.,77.52,65.07,True,False,2
+221,2020-04-13 13:34:52,2023-08-04 15:36:44,Durable hiking boots,Durable hiking boots - Per they between Congress style act.,54.02,39.81,True,True,8
+222,2022-12-09 00:27:03,2023-08-03 01:44:28,Adjustable bib,Adjustable bib - Store him color possible.,133.27,94.54,True,True,6
+223,2020-06-29 05:01:35,2023-08-03 16:38:35,Entertaining stuffed animal,Entertaining stuffed animal - Western trouble stock structure apply.,243.6,186.39,True,True,4
+224,2022-01-02 12:38:17,2023-08-04 10:05:55,Space-saving sticky notes,Space-saving sticky notes - Smile you effort difference.,218.8,191.28,False,True,10
+225,2022-06-08 19:48:35,2023-08-02 02:49:13,Comfortable sunglasses,Comfortable sunglasses - Occur drug notice public price.,205.69,169.37,False,True,3
+226,2020-12-30 08:41:56,2023-08-02 06:58:28,Portable stroller,Portable stroller - Foot power place way because fine we.,10.34,7.84,False,True,6
+227,2020-03-21 06:12:45,2023-08-03 15:01:09,Durable aquarium,Durable aquarium - Here successful stand thought follow company college.,45.88,39.38,True,False,9
+228,2020-12-21 04:14:08,2023-08-03 12:53:46,Creative stuffed animal,Creative stuffed animal - Us north child police blood PM author.,164.47,138.91,True,True,4
+229,2020-08-29 08:25:27,2023-08-03 08:57:39,Sleek headphones,Sleek headphones - Manage news team movie space difficult under life.,210.64,173.55,True,True,7
+230,2020-05-13 19:08:07,2023-08-03 19:53:28,Sleek towel,Sleek towel - Soon which building tree significant role.,185.71,163.05,False,False,1
+231,2022-06-06 12:49:45,2023-08-04 07:04:02,Gentle conditioner,Gentle conditioner - Turn beat pick home read size firm.,219.23,193.94,False,True,2
+232,2020-06-14 00:56:32,2023-08-03 23:35:23,Safe diaper,Safe diaper - Wish Republican price whole try anyone.,157.87,121.69,False,True,5
+233,2023-03-10 19:34:22,2023-08-02 11:20:32,Durable running shoes,Durable running shoes - Hit I growth north such.,247.7,200.68,False,True,8
+234,2022-06-07 07:16:31,2023-08-01 14:34:19,Functional desk lamp,Functional desk lamp - Way both sure player.,148.04,126.89,True,True,10
+235,2020-12-09 09:13:46,2023-08-03 13:25:12,Breathable running shoes,Breathable running shoes - Ok national executive.,97.77,75.52,False,False,8
+236,2020-04-09 02:58:21,2023-08-04 04:43:30,Durable swimming goggles,Durable swimming goggles - Big drug everything.,82.7,67.96,False,True,8
+237,2021-02-17 18:05:28,2023-08-01 21:29:32,Modern vacuum cleaner,Modern vacuum cleaner - Certain some camera film garden case.,32.0,26.61,False,True,1
+238,2020-11-21 23:42:50,2023-08-03 21:53:52,Sophisticated earrings,Sophisticated earrings - Budget shake measure speech produce.,80.46,70.36,True,False,3
+239,2022-04-29 02:46:36,2023-08-01 09:34:21,Adorable bib,Adorable bib - Power challenge fill current.,151.94,132.36,True,False,6
+240,2020-02-19 04:10:16,2023-08-03 08:22:16,Multifunctional headphones,Multifunctional headphones - Magazine short role mouth.,124.78,104.04,False,True,7
+241,2022-06-24 16:38:55,2023-08-03 21:07:28,Waterproof running shoes,Waterproof running shoes - Leader finish middle hospital president painting admit box.,74.32,58.18,True,True,8
+242,2022-07-10 14:38:49,2023-08-02 14:37:37,Safe thermometer,Safe thermometer - Add involve him manager number audience think.,198.68,177.77,True,True,5
+243,2020-05-04 15:42:58,2023-08-02 16:08:14,Rejuvenating razor,Rejuvenating razor - National direction eye ten environment building woman team.,72.94,56.61,True,False,2
+244,2021-12-13 05:00:01,2023-08-03 23:44:00,Modern coffee maker,Modern coffee maker - North according big.,21.28,17.69,False,False,1
+245,2020-07-28 08:20:06,2023-08-02 09:43:14,Imaginative stuffed animal,Imaginative stuffed animal - Good under want worker science speak personal.,179.58,147.31,True,False,4
+246,2020-07-14 02:56:56,2023-08-03 21:14:31,Lightweight bib,Lightweight bib - Board environment maybe yes.,58.91,50.4,False,True,6
+247,2022-01-06 12:57:14,2023-08-02 21:42:59,Compact rug,Compact rug - Poor trial mission.,17.07,12.78,False,True,1
+248,2023-02-16 15:09:09,2023-08-01 21:16:52,Antibacterial air purifier,Antibacterial air purifier - Voice sit let mind service very.,132.1,110.12,True,False,5
+249,2020-01-27 02:17:58,2023-08-02 00:17:05,Trendy watch,Trendy watch - Teacher him theory part seem under challenge.,99.52,76.68,False,False,3
+250,2022-09-12 07:40:33,2023-08-02 21:26:16,Smart wireless earbuds,Smart wireless earbuds - Kitchen dog be win center section.,118.06,94.97,False,True,7
+251,2023-02-25 11:54:05,2023-08-01 06:55:18,Cutting-edge bluetooth speaker,Cutting-edge bluetooth speaker - Section happen tax since stock.,82.31,67.33,False,False,7
+252,2020-11-30 11:08:22,2023-08-03 23:30:46,Classic sunglasses,Classic sunglasses - Often what decade stage before participant ahead now.,137.48,121.7,False,True,3
+253,2022-06-12 12:20:48,2023-08-01 21:52:29,Interactive food bowl,Interactive food bowl - Happy development such.,64.58,57.38,False,True,9
+254,2021-09-13 19:53:34,2023-08-01 15:53:28,Resilient soccer ball,Resilient soccer ball - Marriage he room name majority let tell.,43.12,34.29,False,False,8
+255,2023-01-31 09:42:19,2023-08-02 07:48:54,Multifunctional camera,Multifunctional camera - None professional campaign knowledge color.,232.26,165.91,False,True,7
+256,2022-10-24 14:07:16,2023-08-02 12:03:27,Practical paper shredder,Practical paper shredder - Material she safe relate some anything soldier others.,164.12,144.11,True,False,10
+257,2022-09-27 16:14:09,2023-08-02 05:23:27,Active swimming goggles,Active swimming goggles - Food sure live then visit town coach.,63.84,47.16,True,False,8
+258,2021-08-14 09:26:19,2023-08-03 02:35:06,Athletic soccer ball,Athletic soccer ball - Professional man give.,201.06,153.67,False,False,8
+259,2022-08-14 04:45:20,2023-08-03 01:37:40,Educational ball,Educational ball - Design long up others million improve music town.,124.94,96.66,True,True,4
+260,2022-09-06 08:16:12,2023-08-02 03:41:06,Outdoor soccer ball,Outdoor soccer ball - Explain ever such series member.,204.4,174.91,False,True,8
+261,2023-05-12 18:26:59,2023-08-01 17:38:11,Lightweight camping tent,Lightweight camping tent - Career rest camera specific quickly once practice.,130.31,102.83,True,False,8
+262,2023-06-24 23:01:09,2023-08-02 13:09:54,Comfortable jacket,Comfortable jacket - Event family population.,17.75,12.78,False,True,3
+263,2023-07-20 02:26:28,2023-08-01 05:22:49,Gentle disinfectant,Gentle disinfectant - There room laugh a.,51.86,39.82,True,False,5
+264,2020-03-16 02:42:31,2023-08-02 09:01:33,Advanced bluetooth speaker,Advanced bluetooth speaker - House relate mother eight.,94.12,67.41,True,True,7
+265,2023-07-02 06:09:27,2023-08-04 15:05:03,Productive ballpoint pen,Productive ballpoint pen - Read follow never especially actually rich number.,86.91,62.12,True,False,10
+266,2021-09-05 17:21:43,2023-08-01 06:57:38,Advanced laptop,Advanced laptop - Of deep religious list contain there.,131.33,110.63,False,True,7
+267,2020-09-12 19:38:22,2023-08-02 05:43:00,Natural cleaning cloth,Natural cleaning cloth - Nor voice stand common space lot.,127.3,101.78,True,False,5
+268,2021-08-05 17:17:17,2023-08-04 11:01:17,Adjustable high chair,Adjustable high chair - Let sense create affect inside fly.,187.5,161.58,False,False,6
+269,2022-04-13 20:25:30,2023-08-01 23:21:20,Stylish sunglasses,Stylish sunglasses - Half some source home seek kind.,147.7,129.81,False,False,3
+270,2020-03-29 04:47:20,2023-08-02 03:53:19,Fun educational toy,Fun educational toy - Economy physical rock education event television.,240.24,174.34,False,False,4
+271,2021-04-28 00:40:51,2023-08-02 19:39:15,Invigorating moisturizer,Invigorating moisturizer - Ball collection lay moment customer north share.,27.91,21.44,True,True,2
+272,2023-07-19 04:04:07,2023-08-01 05:24:52,Silky perfume,Silky perfume - However what true spend shake news.,196.8,176.68,True,True,2
+273,2020-11-18 13:16:55,2023-08-01 03:55:32,Space-saving paper shredder,Space-saving paper shredder - Simply out call red.,167.7,130.51,True,False,10
+274,2020-12-22 23:59:27,2023-08-03 11:12:20,Space-saving desk lamp,Space-saving desk lamp - Exist power floor whose.,164.89,146.33,True,True,10
+275,2023-05-09 14:40:20,2023-08-02 12:04:53,Functional ballpoint pen,Functional ballpoint pen - Across defense simply everyone candidate foreign book floor.,202.15,151.44,False,False,10
+276,2022-01-08 12:28:18,2023-08-02 13:10:56,Durable food bowl,Durable food bowl - Early somebody military speak six.,238.69,212.57,True,True,9
+277,2022-08-03 11:13:16,2023-08-03 08:38:46,Comfortable sneakers,Comfortable sneakers - School hundred we computer.,166.85,118.46,True,False,3
+278,2020-08-18 08:34:55,2023-08-04 11:09:37,Efficient ballpoint pen,Efficient ballpoint pen - Level wall act tend book tonight.,243.39,191.53,False,False,10
+279,2021-04-25 15:06:25,2023-08-02 11:50:36,Antibacterial cleaning cloth,Antibacterial cleaning cloth - Billion religious establish hundred.,46.59,37.24,False,True,5
+280,2023-05-22 09:49:21,2023-08-02 21:48:20,Pet-safe cat litter box,Pet-safe cat litter box - Evidence front white case space.,108.01,92.58,True,True,9
+281,2022-05-23 05:01:23,2023-08-02 15:45:38,Adjustable baby monitor,Adjustable baby monitor - Minute information system simple.,148.36,113.97,True,True,6
+282,2023-01-07 02:24:46,2023-08-01 09:47:05,Gentle thermometer,Gentle thermometer - Watch bar leg culture interesting.,80.22,59.35,False,False,5
+283,2022-07-31 03:22:42,2023-08-03 22:03:40,Adjustable teething toy,Adjustable teething toy - Apply scene until third.,92.75,81.86,False,True,6
+284,2023-05-29 19:44:43,2023-08-03 04:52:51,Adventure-ready dumbbells,Adventure-ready dumbbells - Standard responsibility short kitchen live radio.,77.06,59.64,False,True,8
+285,2022-09-01 05:34:41,2023-08-02 17:16:34,Adorable baby bottle,Adorable baby bottle - Policy myself share first.,245.78,200.61,True,False,6
+286,2021-01-27 12:12:24,2023-08-04 09:19:08,Luxurious face mask,Luxurious face mask - Kind candidate house citizen join memory.,136.76,119.15,True,True,2
+287,2020-02-26 14:02:37,2023-08-03 07:27:02,Adjustable baby carrier,Adjustable baby carrier - Cause program apply information will since paper.,133.62,118.58,True,False,6
+288,2021-01-30 23:34:31,2023-08-01 01:17:56,Portable tv,Portable tv - Garden save from for century keep.,51.56,38.0,True,True,7
+289,2022-07-15 16:34:59,2023-08-03 05:38:57,Portable baby bottle,Portable baby bottle - Challenge least necessary white nearly remain state.,172.99,126.54,True,True,6
+290,2021-03-19 13:20:20,2023-08-03 15:06:57,Stylish rug,Stylish rug - It something drop foreign help road officer.,82.75,63.56,False,False,1
+291,2023-01-16 19:15:44,2023-08-02 13:13:01,Compact rug,Compact rug - Allow too back then alone.,204.87,182.23,True,True,1
+292,2023-03-28 16:31:02,2023-08-04 10:01:23,Breathable swimming goggles,Breathable swimming goggles - Role western perform.,96.09,74.21,True,False,8
+293,2021-08-30 00:33:24,2023-08-04 15:14:05,Invigorating lipstick,Invigorating lipstick - Person thank economy several across college level.,181.73,156.74,False,True,2
+294,2022-12-13 15:07:20,2023-08-01 21:29:16,Nourishing razor,Nourishing razor - Hold party country.,131.48,110.95,True,False,2
+295,2021-10-15 15:46:23,2023-08-04 14:31:26,Ergonomic pillow,Ergonomic pillow - Drug describe Mr baby energy.,99.82,88.46,False,False,1
+296,2022-08-12 23:17:12,2023-08-02 11:08:29,Cutting-edge tablet,Cutting-edge tablet - Exist bed dog heart position thought.,180.42,137.92,False,False,7
+297,2023-06-24 10:55:34,2023-08-01 18:07:42,Classic dress,Classic dress - Able above baby year.,79.26,66.58,False,True,3
+298,2020-09-13 04:04:46,2023-08-01 00:11:25,Interactive educational toy,Interactive educational toy - Lead approach even vote wait color.,136.21,104.36,False,True,4
+299,2021-01-18 05:35:20,2023-08-01 11:11:37,Antibacterial disinfectant,Antibacterial disinfectant - Building low fear remain.,183.1,153.44,False,False,5
+300,2022-02-01 10:51:21,2023-08-01 08:32:21,Powerful bluetooth speaker,Powerful bluetooth speaker - Son face culture magazine where.,75.52,66.18,False,False,7
+301,2023-03-27 20:01:02,2023-08-01 05:59:58,Efficient desk organizer,Efficient desk organizer - International report easy before compare home knowledge education.,75.3,65.05,True,True,10
+302,2021-11-12 03:51:52,2023-08-02 18:44:29,Reversible crib,Reversible crib - Skill arm build industry friend fly then.,193.61,155.32,False,False,6
+303,2022-12-05 06:41:48,2023-08-04 08:27:07,Portable gaming console,Portable gaming console - School none popular former pressure.,139.78,99.97,True,True,7
+304,2021-08-07 13:23:16,2023-08-01 13:13:55,Luxurious razor,Luxurious razor - Police situation professor bill measure ten.,221.83,175.03,True,False,2
+305,2020-06-24 08:06:36,2023-08-04 02:43:02,Exciting doll,Exciting doll - Always stuff show continue focus.,209.13,173.56,False,True,4
+306,2022-05-14 01:18:29,2023-08-04 15:49:42,Comfortable sunglasses,Comfortable sunglasses - Score senior mission act because may it.,65.26,54.23,False,True,3
+307,2021-10-15 04:49:42,2023-08-03 10:11:29,Sophisticated ring,Sophisticated ring - Detail sport page.,16.52,12.05,False,True,3
+308,2022-12-10 15:40:30,2023-08-03 09:38:24,Pet-friendly aquarium,Pet-friendly aquarium - Back stock they former scene full.,79.32,63.71,False,False,9
+309,2021-10-28 20:19:40,2023-08-01 03:32:25,Refreshing lipstick,Refreshing lipstick - Force near here tough southern federal land.,14.2,11.33,True,True,2
+310,2022-12-03 18:05:51,2023-08-01 05:54:08,Interactive action figure,Interactive action figure - Whose her some sort lawyer most.,85.64,64.07,False,False,4
+311,2022-03-31 21:49:03,2023-08-02 21:56:43,Classic ring,Classic ring - Easy season few standard than.,148.69,107.74,True,True,3
+312,2022-04-27 22:16:39,2023-08-03 23:46:54,Advanced smartwatch,Advanced smartwatch - Newspaper chance enjoy budget perhaps.,193.72,156.28,False,False,7
+313,2020-03-07 19:02:00,2023-08-03 15:47:04,Ergonomic blender,Ergonomic blender - Store team their enough brother through.,154.79,128.69,False,True,1
+314,2020-05-11 11:22:29,2023-08-02 03:13:05,High-tech camera,High-tech camera - Opportunity executive big read.,145.8,109.4,False,True,7
+315,2020-01-04 08:46:27,2023-08-02 01:46:16,Furry pet carrier,Furry pet carrier - Test common over consumer receive.,216.56,161.65,True,False,9
+316,2021-11-05 03:26:05,2023-08-04 05:51:21,Practical stroller,Practical stroller - Two pay stay campaign fund by school.,139.26,108.12,False,True,6
+317,2020-04-29 06:58:33,2023-08-02 22:23:14,Versatile pillow,Versatile pillow - Relate old pressure have ask church.,34.14,27.64,True,False,1
+318,2022-02-06 09:34:16,2023-08-01 03:05:51,Chewable bird cage,Chewable bird cage - Night eight population car bad particularly structure.,93.82,69.52,True,False,9
+319,2022-10-28 06:11:08,2023-08-04 01:00:10,Classic sneakers,Classic sneakers - Admit minute low somebody.,205.27,172.03,True,False,3
+320,2020-02-12 01:38:11,2023-08-03 08:42:04,Hydrating toothbrush,Hydrating toothbrush - Reduce themselves serve land full.,249.35,217.88,False,True,2
+321,2021-05-13 22:56:25,2023-08-03 01:19:07,Comfortable earrings,Comfortable earrings - Property station subject.,150.97,128.05,False,True,3
+322,2022-08-22 00:03:06,2023-08-02 22:26:00,Ergonomic blender,Ergonomic blender - War Mrs painting dream town edge.,187.36,164.39,True,True,1
+323,2023-01-15 00:44:06,2023-08-04 08:33:50,Multifunctional tv,Multifunctional tv - Subject movement require admit close.,113.28,96.06,True,False,7
+324,2023-04-11 23:42:40,2023-08-04 15:13:44,Comfortable jacket,Comfortable jacket - Born another discover player wish card performance lay.,40.78,29.19,False,False,3
+325,2023-03-24 13:22:42,2023-08-03 22:08:46,Chewable aquarium,Chewable aquarium - Human town win store.,222.8,181.28,True,True,9
+326,2023-01-13 09:35:27,2023-08-04 07:25:38,Practical bib,Practical bib - Ago need cold foot certainly size.,148.72,114.75,False,True,6
+327,2021-02-18 12:30:57,2023-08-01 03:26:45,Imaginative stuffed animal,Imaginative stuffed animal - Hour ten trip course yet full writer practice.,140.89,120.04,False,True,4
+328,2022-03-29 06:40:35,2023-08-01 08:09:11,Imaginative ball,Imaginative ball - Game upon will tend everybody.,179.75,158.32,True,False,4
+329,2020-01-08 01:04:52,2023-08-02 04:56:13,Easy-to-clean diaper bag,Easy-to-clean diaper bag - Democrat computer situation main already play.,117.06,95.37,False,False,6
+330,2021-04-09 11:00:10,2023-08-02 03:20:43,Functional file folder,Functional file folder - State tend feeling.,30.49,21.47,False,False,10
+331,2021-09-20 17:58:29,2023-08-01 01:52:38,Exciting doll,Exciting doll - Activity common voice.,30.8,24.86,False,False,4
+332,2022-04-11 22:00:20,2023-08-04 08:14:36,Multifunctional camera,Multifunctional camera - Hair argue despite long.,56.37,45.95,True,True,7
+333,2020-12-20 00:07:04,2023-08-02 04:03:49,Gentle moisturizer,Gentle moisturizer - Hospital play close analysis marriage physical like.,103.0,78.39,False,True,2
+334,2020-02-20 21:00:42,2023-08-03 01:58:43,Healthy first aid kit,Healthy first aid kit - Republican same ask cut wrong.,11.09,9.12,True,False,5
+335,2021-03-02 10:31:16,2023-08-04 15:37:10,Creative stuffed animal,Creative stuffed animal - Else until school letter.,17.57,14.71,False,False,4
+336,2022-08-29 11:35:48,2023-08-02 13:22:55,Fashionable watch,Fashionable watch - Order eight figure my senior small.,246.39,217.05,True,True,3
+337,2021-03-19 08:40:15,2023-08-02 13:00:42,Elegant sneakers,Elegant sneakers - Sing late life deep draw show.,116.88,84.31,False,True,3
+338,2023-01-15 09:53:44,2023-08-01 13:49:12,Advanced tablet,Advanced tablet - Successful friend develop article around main director.,152.7,114.58,True,True,7
+339,2022-08-23 04:31:00,2023-08-02 12:02:05,Casual ring,Casual ring - Fast series edge commercial democratic church organization.,23.03,18.04,True,False,3
+340,2021-05-14 06:13:41,2023-08-04 03:35:25,Multifunctional smartwatch,Multifunctional smartwatch - Education song focus develop answer another camera.,153.56,112.95,False,False,7
+341,2022-07-27 14:10:22,2023-08-01 16:41:47,Adventure-ready fishing rod,Adventure-ready fishing rod - Collection will easy father perhaps.,27.07,23.47,True,False,8
+342,2021-07-05 12:41:50,2023-08-03 18:56:06,Cutting-edge wireless earbuds,Cutting-edge wireless earbuds - Son avoid public audience attorney.,158.78,113.87,False,True,7
+343,2021-01-28 22:56:43,2023-08-02 17:08:15,Compact curtain,Compact curtain - Raise expect class professional our employee.,117.77,89.53,False,False,1
+344,2020-01-24 04:10:09,2023-08-01 08:13:37,Durable grooming brush,Durable grooming brush - Small happy character walk explain assume happen.,208.91,152.71,False,True,9
+345,2020-06-17 09:08:24,2023-08-04 15:12:04,Smart tv,Smart tv - Reduce away ready live.,81.7,66.97,False,False,7
+346,2023-05-31 14:10:06,2023-08-01 16:01:29,Interactive aquarium,Interactive aquarium - There ability new senior imagine range.,154.5,118.88,False,False,9
+347,2022-03-21 17:14:30,2023-08-02 12:46:04,Healthy first aid kit,Healthy first aid kit - Popular see soldier.,183.36,150.13,True,True,5
+348,2021-08-11 09:44:21,2023-08-03 06:28:47,Advanced smartwatch,Advanced smartwatch - Describe activity describe yet.,124.34,97.37,True,False,7
+349,2021-04-24 17:00:34,2023-08-03 21:33:32,Colorful building blocks,Colorful building blocks - Run do right car.,212.77,156.57,False,True,4
+350,2021-06-18 11:18:04,2023-08-02 03:39:51,Adventure-ready hiking boots,Adventure-ready hiking boots - Wear quickly month call up serious bill.,89.33,73.26,False,True,8
+351,2022-05-31 17:18:32,2023-08-01 21:55:09,High-tech tv,High-tech tv - Experience yet many watch rule thought.,208.09,175.71,False,False,7
+352,2021-05-25 08:08:09,2023-08-02 04:24:20,Invigorating shampoo,Invigorating shampoo - Become indicate those even peace free.,215.81,186.44,False,False,2
+353,2021-11-03 05:43:41,2023-08-02 23:17:19,Hypoallergenic first aid kit,Hypoallergenic first aid kit - Something protect majority key.,199.23,140.2,True,True,5
+354,2022-11-22 12:31:52,2023-08-03 17:42:38,Practical high chair,Practical high chair - Then manager wife company hair dark.,153.06,121.44,True,True,6
+355,2021-07-04 03:00:28,2023-08-01 15:06:23,Lightweight baby bottle,Lightweight baby bottle - Page price over enough politics although despite.,135.5,98.36,True,True,6
+356,2020-11-07 15:39:34,2023-08-03 11:43:00,Non-toxic toothpaste,Non-toxic toothpaste - Nothing fear tonight and war Mrs.,120.89,86.22,True,True,5
+357,2022-11-21 14:33:31,2023-08-03 20:35:10,Fun puzzle,Fun puzzle - Million hit father through.,227.72,192.08,False,True,4
+358,2022-12-08 14:21:55,2023-08-03 08:57:55,Casual jacket,Casual jacket - Third firm feel detail.,68.78,55.11,True,True,3
+359,2020-12-14 10:41:32,2023-08-01 04:17:57,Creative ball,Creative ball - Thousand follow another onto born.,173.93,128.74,False,True,4
+360,2022-04-28 07:59:14,2023-08-03 10:51:30,Effective thermometer,Effective thermometer - Claim series hope draw their another reflect.,169.49,141.32,False,True,5
+361,2020-10-16 17:53:05,2023-08-02 05:58:38,Effective air purifier,Effective air purifier - Tough modern my available common name almost.,145.0,111.89,True,False,5
+362,2021-05-16 03:23:23,2023-08-03 09:21:54,Casual jacket,Casual jacket - Model bar economy side whether realize.,123.51,89.2,True,True,3
+363,2020-07-03 22:40:41,2023-08-02 05:39:13,Innovative camera,Innovative camera - Through charge item everything break.,93.31,80.36,True,True,7
+364,2020-04-08 20:33:28,2023-08-04 06:55:33,Durable coffee maker,Durable coffee maker - Candidate can technology teacher.,127.01,112.96,False,False,1
+365,2022-01-04 22:54:35,2023-08-02 09:20:13,Colorful stuffed animal,Colorful stuffed animal - Tough it south measure.,145.32,123.62,True,True,4
+366,2021-02-23 10:23:29,2023-08-04 12:06:48,Cozy high chair,Cozy high chair - Simply more message as service reduce maintain.,147.99,103.82,False,False,6
+367,2020-03-20 10:12:42,2023-08-03 16:05:12,High-tech smartwatch,High-tech smartwatch - Serious cover issue other.,18.81,13.59,True,False,7
+368,2022-05-13 23:23:08,2023-08-02 06:44:21,Antibacterial air purifier,Antibacterial air purifier - Future step voice window position sister.,224.44,179.93,True,True,5
+369,2020-07-19 15:27:29,2023-08-01 09:14:14,Breathable hiking boots,Breathable hiking boots - Opportunity record adult power.,244.53,206.0,True,True,8
+370,2023-05-06 22:24:13,2023-08-02 07:12:45,Odorless diaper,Odorless diaper - Stay beyond near finish.,94.36,74.9,False,False,5
+371,2020-11-08 05:49:48,2023-08-03 00:09:34,Innovative tablet,Innovative tablet - Computer what condition finish century according plan.,163.84,123.17,True,True,7
+372,2020-01-01 02:28:43,2023-08-03 23:17:14,Fun action figure,Fun action figure - Along natural week person sense take statement specific.,56.28,50.01,False,False,4
+373,2021-12-11 12:08:20,2023-08-03 11:37:34,Fashionable sneakers,Fashionable sneakers - Tax best include spend democratic pretty its.,32.09,28.67,False,True,3
+374,2022-04-12 03:59:34,2023-08-04 06:39:15,Stylish rug,Stylish rug - Six also give food.,238.03,211.37,True,True,1
+375,2020-07-22 00:25:59,2023-08-01 01:50:21,Comfortable baby monitor,Comfortable baby monitor - Interesting structure near trip nothing story.,177.72,135.26,True,True,6
+376,2021-12-23 19:45:00,2023-08-02 14:42:14,Furry aquarium,Furry aquarium - Nation require its measure mouth response to.,210.22,178.77,False,True,9
+377,2020-09-15 08:02:45,2023-08-03 02:10:41,Efficient whiteboard,Efficient whiteboard - Poor tend approach develop trade answer.,105.58,94.16,False,False,10
+378,2021-06-08 05:04:00,2023-08-01 01:05:04,Sophisticated handbag,Sophisticated handbag - Usually man series region care campaign.,237.19,213.32,False,False,3
+379,2021-03-06 10:57:16,2023-08-01 19:29:12,Active bicycle,Active bicycle - Woman themselves garden teach add animal.,232.07,192.7,True,True,8
+380,2021-01-13 22:04:08,2023-08-02 02:06:31,Lightweight crib,Lightweight crib - Imagine major choose leave.,166.91,133.57,False,False,6
+381,2022-12-31 22:43:42,2023-08-01 10:20:38,Soft bib,Soft bib - Tough manage feel happy growth consider surface role.,249.41,206.42,True,False,6
+382,2022-04-11 12:10:27,2023-08-03 03:26:28,Smart gaming console,Smart gaming console - Republican choose behavior television.,61.97,54.65,False,False,7
+383,2021-03-15 22:06:51,2023-08-03 08:24:46,Cutting-edge headphones,Cutting-edge headphones - A also administration long.,184.41,147.56,True,False,7
+384,2021-08-26 03:58:43,2023-08-04 02:14:29,Durable swimming goggles,Durable swimming goggles - Benefit radio movie important page girl.,236.94,194.36,False,False,8
+385,2020-06-16 13:30:35,2023-08-03 02:17:24,Trendy jacket,Trendy jacket - Hundred question a present television compare trouble hair.,162.15,127.55,False,False,3
+386,2022-06-29 11:03:05,2023-08-02 23:04:51,Challenging ball,Challenging ball - Play stage read role article still property.,208.91,148.63,True,False,4
+387,2020-04-15 15:59:53,2023-08-01 21:05:24,Pet-safe food bowl,Pet-safe food bowl - Box imagine thought various her.,37.11,26.7,False,False,9
+388,2020-07-18 21:02:21,2023-08-03 19:13:51,User-friendly camera,User-friendly camera - Author degree measure lawyer dog.,200.38,147.17,True,False,7
+389,2020-12-31 01:51:32,2023-08-03 15:33:24,Functional ballpoint pen,Functional ballpoint pen - Stuff personal build when white make.,94.96,82.34,False,False,10
+390,2020-01-26 15:25:15,2023-08-01 08:37:06,Fragrant perfume,Fragrant perfume - Board style lawyer not power.,61.78,50.52,False,False,2
+391,2022-11-02 03:48:43,2023-08-02 15:01:15,Nourishing conditioner,Nourishing conditioner - Save prepare job dark.,191.64,148.0,False,False,2
+392,2021-02-23 04:13:00,2023-08-02 12:24:48,Practical teething toy,Practical teething toy - Movie turn lay bad prevent he.,237.23,186.05,False,True,6
+393,2021-02-15 06:39:38,2023-08-03 03:46:15,Gentle laundry detergent,Gentle laundry detergent - Control both perhaps phone notice.,34.84,27.9,True,True,5
+394,2021-09-02 11:44:51,2023-08-01 15:19:23,User-friendly tv,User-friendly tv - Positive future partner read want table wonder.,238.97,168.27,True,False,7
+395,2021-09-30 01:16:02,2023-08-01 03:34:02,Sleek wireless earbuds,Sleek wireless earbuds - Standard reduce need.,116.65,98.74,False,False,7
+396,2020-06-10 16:05:45,2023-08-01 04:47:18,User-friendly headphones,User-friendly headphones - Role forget parent despite.,28.13,20.57,False,True,7
+397,2021-09-27 17:18:02,2023-08-03 06:12:15,Educational remote control car,Educational remote control car - Kind cold he increase live land event.,67.28,57.92,True,True,4
+398,2020-10-27 03:01:19,2023-08-01 17:26:08,Interactive hamster wheel,Interactive hamster wheel - Recently discuss admit response.,217.15,165.34,True,False,9
+399,2022-01-04 05:54:13,2023-08-04 15:42:48,Non-toxic vitamin,Non-toxic vitamin - Since far evening listen.,102.87,78.95,False,True,5
+400,2022-02-26 18:26:11,2023-08-02 23:19:03,Waterproof yoga mat,Waterproof yoga mat - Throw do particularly wife knowledge woman century.,48.07,35.96,False,True,8
+401,2022-10-10 10:22:31,2023-08-02 18:50:46,Versatile blender,Versatile blender - Yes west medical another painting fly night.,199.72,164.86,False,True,1
+402,2023-07-15 08:29:07,2023-08-04 13:40:55,Sleek gaming console,Sleek gaming console - Sit decision while sing town nor.,240.71,175.81,False,False,7
+403,2022-10-06 13:23:49,2023-08-04 07:44:04,Furry pet carrier,Furry pet carrier - Too who building fact standard.,60.46,49.25,True,False,9
+404,2023-05-12 23:59:10,2023-08-04 14:36:47,Stylish handbag,Stylish handbag - Adult explain animal now lead main class.,136.32,118.82,True,True,3
+405,2023-01-16 10:43:24,2023-08-04 12:44:06,Innovative gaming console,Innovative gaming console - Once box relationship find.,190.07,170.84,False,True,7
+406,2023-07-10 05:14:26,2023-08-03 13:06:16,Lightweight running shoes,Lightweight running shoes - Do beyond first left.,48.87,37.32,True,False,8
+407,2022-10-13 17:58:30,2023-08-04 06:09:43,High-tech tv,High-tech tv - Deep education want information.,124.19,96.95,True,False,7
+408,2023-06-28 05:33:40,2023-08-01 06:50:09,Natural air purifier,Natural air purifier - Population bring to question enter.,49.61,42.96,False,True,5
+409,2022-08-07 23:21:09,2023-08-02 12:19:05,Comfy dog bed,Comfy dog bed - Deep major fast measure.,125.54,104.36,False,True,9
+410,2022-07-03 05:47:25,2023-08-03 05:48:53,Sleek coffee maker,Sleek coffee maker - Just reduce away remain city will.,114.67,94.36,False,True,1
+411,2022-10-09 12:40:55,2023-08-01 00:36:16,Silky shampoo,Silky shampoo - International sense financial even instead.,244.94,208.02,False,True,2
+412,2023-04-27 11:16:59,2023-08-03 08:42:58,Odor-resistant dog bed,Odor-resistant dog bed - Base especially special.,166.36,125.37,True,True,9
+413,2022-03-26 18:29:53,2023-08-02 10:02:39,Luxurious hair dryer,Luxurious hair dryer - Special represent music event low throw well.,19.72,17.01,True,True,2
+414,2022-04-16 01:18:48,2023-08-03 14:35:48,Rejuvenating hair dryer,Rejuvenating hair dryer - Wait my space according all.,155.44,120.46,True,True,2
+415,2022-01-24 09:51:26,2023-08-04 07:27:31,Chic dress,Chic dress - Word seat process.,13.17,10.71,True,True,3
+416,2022-05-30 16:24:00,2023-08-01 06:55:31,Chic handbag,Chic handbag - Throughout PM court pull.,154.86,135.55,True,False,3
+417,2021-11-10 11:27:27,2023-08-01 13:04:51,Gentle toothbrush,Gentle toothbrush - Theory animal line student forward series receive.,71.6,52.85,True,True,2
+418,2020-09-16 23:29:49,2023-08-02 18:25:16,Soft baby carrier,Soft baby carrier - Area soon could billion save traditional huge.,107.82,81.75,False,False,6
+419,2020-09-29 16:11:30,2023-08-04 09:34:29,Durable camping tent,Durable camping tent - Money idea wear even plant big.,126.37,109.63,True,True,8
+420,2022-10-17 10:55:24,2023-08-04 11:31:06,Casual ring,Casual ring - Area total similar nature so city.,212.78,158.83,False,True,3
+421,2022-08-17 01:45:07,2023-08-01 22:25:55,Casual jacket,Casual jacket - Expert knowledge song ball lay audience.,58.51,49.81,True,True,3
+422,2022-09-22 02:51:33,2023-08-02 10:24:02,Waterproof swimming goggles,Waterproof swimming goggles - Degree admit around reveal hundred detail region.,74.96,63.67,True,True,8
+423,2020-10-16 01:42:28,2023-08-01 22:03:52,Athletic bicycle,Athletic bicycle - Significant seven cost during.,51.14,43.45,False,False,8
+424,2021-02-24 22:46:03,2023-08-02 09:54:01,Modern towel,Modern towel - His author buy score.,226.22,191.5,False,True,1
+425,2020-01-30 15:07:48,2023-08-04 14:51:14,Portable laptop,Portable laptop - Close today look second plan.,43.04,33.35,False,False,7
+426,2021-08-14 03:41:31,2023-08-01 18:24:35,Ergonomic desk lamp,Ergonomic desk lamp - Theory hear clearly room couple certain be.,174.55,146.78,False,False,10
+427,2021-08-06 00:49:16,2023-08-01 02:34:02,Interactive cat tree,Interactive cat tree - Herself consider space point into.,12.11,9.44,True,False,9
+428,2021-01-05 15:05:37,2023-08-02 03:48:41,Pet-safe grooming brush,Pet-safe grooming brush - Space analysis image important financial forward daughter.,27.48,19.6,True,False,9
+429,2022-02-27 09:23:24,2023-08-04 15:14:11,Durable backpack,Durable backpack - Firm reveal his check statement.,56.18,49.16,False,True,8
+430,2022-01-21 18:38:54,2023-08-03 21:36:37,Productive desk organizer,Productive desk organizer - Should wait image politics simply all.,12.07,9.89,True,True,10
+431,2021-11-30 07:27:53,2023-08-01 15:08:49,Classic sunglasses,Classic sunglasses - Relate seat me less throw per surface.,187.22,149.3,True,False,3
+432,2021-12-29 04:06:38,2023-08-01 13:20:13,Durable backpack,Durable backpack - Them church ability positive coach red.,202.84,180.29,False,False,8
+433,2021-09-06 05:35:41,2023-08-02 11:09:35,Educational board game,Educational board game - Almost fact effect scene.,83.6,61.64,True,True,4
+434,2021-01-21 00:35:32,2023-08-03 09:32:10,Silky moisturizer,Silky moisturizer - Really but government.,241.88,211.54,False,False,2
+435,2022-10-10 00:56:21,2023-08-01 15:20:19,Dazzling jeans,Dazzling jeans - Charge interview team off position discuss effect.,72.63,56.93,True,False,3
+436,2021-03-26 20:09:10,2023-08-04 05:28:53,Lightweight hiking boots,Lightweight hiking boots - Short factor tell be radio happen simply our.,224.44,161.54,False,False,8
+437,2020-06-29 07:27:18,2023-08-04 11:45:40,User-friendly smartwatch,User-friendly smartwatch - Long form need next along travel executive expert.,34.6,26.99,True,False,7
+438,2022-07-11 09:38:04,2023-08-01 23:40:05,Reversible teething toy,Reversible teething toy - Without production skill information.,229.53,168.54,False,False,6
+439,2021-07-23 17:34:06,2023-08-04 05:47:28,Sleek stapler,Sleek stapler - Today institution expert program.,190.74,169.27,True,True,10
+440,2020-06-03 07:05:57,2023-08-03 22:45:33,Cozy pacifier,Cozy pacifier - Suddenly part nor.,62.7,48.12,False,False,6
+441,2022-07-13 07:15:01,2023-08-01 07:09:14,Sleek towel,Sleek towel - Then perform suggest laugh your turn.,138.78,116.8,True,True,1
+442,2023-05-08 19:43:03,2023-08-04 02:44:07,Creative remote control car,Creative remote control car - Land company difference buy.,158.76,140.25,False,False,4
+443,2021-06-18 17:05:04,2023-08-01 02:58:43,Paw-some aquarium,Paw-some aquarium - Or or record alone participant study soon like.,152.19,135.31,True,True,9
+444,2020-03-19 20:00:19,2023-08-03 15:43:38,Educational building blocks,Educational building blocks - Trial fact develop customer late few start.,232.47,205.47,True,True,4
+445,2020-05-03 11:28:36,2023-08-01 06:06:10,Natural hair dryer,Natural hair dryer - Think order their our window bad most imagine.,243.88,185.77,False,True,2
+446,2023-07-16 11:45:04,2023-08-04 14:20:48,Natural laundry detergent,Natural laundry detergent - Him develop doctor foreign.,92.71,77.41,False,False,5
+447,2023-08-01 11:15:24,2023-08-03 01:47:19,Nourishing nail polish,Nourishing nail polish - Against happen good.,11.83,8.95,False,False,2
+448,2023-04-07 20:33:47,2023-08-04 04:12:48,Healthy baby wipes,Healthy baby wipes - Approach sport happy specific baby car.,157.05,116.93,True,True,5
+449,2021-07-21 19:05:55,2023-08-02 01:22:39,Eco-friendly disinfectant,Eco-friendly disinfectant - Yet blue each entire agreement remember force.,192.07,151.52,True,True,5
+450,2023-01-23 00:51:27,2023-08-04 05:47:53,Furry chew toy,Furry chew toy - Indeed eat let management nation close.,151.43,123.09,True,False,9
+451,2022-10-11 02:04:22,2023-08-02 07:53:03,Fun building blocks,Fun building blocks - Who money far inside crime want seem down.,16.08,13.22,False,False,4
+452,2022-05-25 01:20:33,2023-08-01 00:18:30,Comfy grooming brush,Comfy grooming brush - Writer shoulder color floor.,157.01,111.91,False,False,9
+453,2023-02-22 15:25:31,2023-08-02 09:31:24,Organized notebooks,Organized notebooks - Peace friend soldier small him recently.,131.7,101.94,True,True,10
+454,2022-03-22 19:30:53,2023-08-03 00:37:41,Silky razor,Silky razor - Occur language return.,193.11,157.52,False,False,2
+455,2021-12-01 11:55:34,2023-08-02 01:32:35,Engaging remote control car,Engaging remote control car - Worry national also arrive medical score happen follow.,73.82,66.27,False,False,4
+456,2022-08-03 02:02:27,2023-08-02 21:36:41,Stylish ring,Stylish ring - Necessary author us low.,225.03,201.5,True,True,3
+457,2020-06-07 20:31:32,2023-08-02 16:39:11,Safe diaper,Safe diaper - But speak early Democrat dark catch.,134.58,109.68,False,True,5
+458,2022-12-18 15:42:03,2023-08-02 03:49:27,Odor-resistant cat litter box,Odor-resistant cat litter box - Color medical method exist traditional.,187.3,158.16,False,True,9
+459,2022-07-06 03:31:29,2023-08-02 20:16:29,Sophisticated dress,Sophisticated dress - I ten present.,112.37,91.62,False,False,3
+460,2021-04-10 14:23:21,2023-08-03 06:36:26,High-tech smartphone,High-tech smartphone - National wide skill simply science remain.,117.43,99.48,False,True,7
+461,2020-12-13 11:12:54,2023-08-01 08:48:20,Resilient hiking boots,Resilient hiking boots - Prevent lawyer hand buy.,238.92,194.09,True,False,8
+462,2020-08-04 17:29:19,2023-08-03 10:28:43,Safe laundry detergent,Safe laundry detergent - Position my teach positive occur.,45.18,35.74,True,True,5
+463,2020-06-06 17:29:37,2023-08-03 02:51:28,Imaginative stuffed animal,Imaginative stuffed animal - Approach military itself ahead reveal some.,222.64,184.31,False,False,4
+464,2022-04-17 22:52:16,2023-08-01 08:19:09,Practical crib,Practical crib - Them ago half minute father shake.,136.59,113.04,True,True,6
+465,2023-02-11 15:00:41,2023-08-04 11:49:24,Entertaining playset,Entertaining playset - Deep report take hold after.,216.96,160.01,True,False,4
+466,2020-02-22 04:14:44,2023-08-01 10:51:22,Safe air purifier,Safe air purifier - Often sure change what deal different.,47.79,40.26,False,True,5
+467,2022-07-23 06:26:21,2023-08-04 10:21:41,Comfortable baby carrier,Comfortable baby carrier - Mr son protect miss.,189.64,139.12,True,True,6
+468,2022-04-27 07:44:59,2023-08-04 02:07:02,Comfortable baby bottle,Comfortable baby bottle - Staff near responsibility work institution key.,28.16,23.15,True,True,6
+469,2021-02-28 17:31:54,2023-08-01 03:27:17,Effective disinfectant,Effective disinfectant - Response several leg.,203.07,153.75,True,False,5
+470,2021-07-30 01:29:34,2023-08-02 14:04:34,Easy-to-clean teething toy,Easy-to-clean teething toy - History person central through available any.,33.81,27.59,True,True,6
+471,2020-11-27 10:01:28,2023-08-04 04:57:18,Versatile cutting board,Versatile cutting board - Save suddenly later kid range sign.,196.82,145.4,False,True,1
+472,2022-10-16 23:26:19,2023-08-04 06:12:33,Resilient bicycle,Resilient bicycle - Yard occur trade board begin center.,45.5,36.41,True,False,8
+473,2023-04-10 21:17:35,2023-08-04 14:19:46,Multifunctional smartwatch,Multifunctional smartwatch - Difficult painting key have record information cell.,126.55,89.55,False,False,7
+474,2020-01-08 21:14:00,2023-08-01 19:33:31,Easy-to-clean baby bottle,Easy-to-clean baby bottle - Success reach structure far parent.,108.29,88.08,True,False,6
+475,2023-07-16 13:20:34,2023-08-01 16:10:59,Innovative gaming console,Innovative gaming console - Amount ahead language land reduce left stuff sort.,159.6,117.82,True,False,7
+476,2021-04-15 14:38:02,2023-08-01 05:58:19,Invigorating nail polish,Invigorating nail polish - Never pattern charge paper loss.,248.39,182.56,False,False,2
+477,2022-01-16 01:32:47,2023-08-04 15:56:27,Natural toothbrush,Natural toothbrush - Ago use race seven scientist.,188.7,165.16,False,False,2
+478,2023-01-01 03:58:16,2023-08-03 17:03:34,Sleek tv,Sleek tv - Become hospital white suggest herself team.,20.29,16.2,False,True,7
+479,2020-09-09 04:46:18,2023-08-02 15:30:54,Hydrating face mask,Hydrating face mask - Huge natural arm.,237.46,184.05,False,False,2
+480,2020-11-15 07:02:44,2023-08-03 19:06:20,Elegant dinner set,Elegant dinner set - Defense window name present alone this.,67.74,51.03,False,True,1
+481,2022-08-20 14:54:06,2023-08-03 07:09:28,Durable cutting board,Durable cutting board - Effect to there together child work.,30.92,25.93,False,True,1
+482,2022-03-27 12:47:04,2023-08-02 21:06:11,Trendy sunglasses,Trendy sunglasses - Doctor evening energy help four party central.,145.47,115.34,True,False,3
+483,2023-07-08 12:35:24,2023-08-01 06:29:35,Sturdy yoga mat,Sturdy yoga mat - Tough husband action natural politics.,191.62,149.2,False,False,8
+484,2021-04-10 07:24:25,2023-08-02 03:31:00,User-friendly smartphone,User-friendly smartphone - Wait performance guy office focus collection top.,193.74,156.4,True,False,7
+485,2022-09-29 23:21:41,2023-08-03 20:14:48,Stylish jeans,Stylish jeans - Bit deal left open though factor might.,172.53,146.03,False,True,3
+486,2022-09-19 00:41:54,2023-08-01 06:09:21,Effective diaper,Effective diaper - List dinner player yes know responsibility.,38.16,29.12,False,False,5
+487,2022-08-13 14:10:51,2023-08-02 17:09:53,Durable hiking boots,Durable hiking boots - Present item feel contain add at none area.,88.04,69.71,False,False,8
+488,2022-01-03 16:51:26,2023-08-01 21:57:02,Chewable cat tree,Chewable cat tree - Pass change policy stop.,108.19,93.43,True,True,9
+489,2022-05-10 02:04:05,2023-08-02 22:53:16,Functional lamp,Functional lamp - Design central share include hit very.,206.14,176.28,False,True,1
+490,2022-07-31 05:36:21,2023-08-03 18:54:08,Hypoallergenic air purifier,Hypoallergenic air purifier - Center industry note environmental trial interview administration.,23.9,17.34,False,False,5
+491,2021-07-14 22:41:51,2023-08-01 06:49:42,Adorable high chair,Adorable high chair - State magazine sometimes single loss.,19.06,16.73,False,False,6
+492,2021-03-09 15:44:41,2023-08-01 16:23:36,Invigorating lipstick,Invigorating lipstick - Truth should again meeting.,190.89,169.71,False,False,2
+493,2020-06-15 21:03:46,2023-08-02 23:14:29,Waterproof swimming goggles,Waterproof swimming goggles - Become son meet level late.,51.44,42.03,True,False,8
+494,2021-11-15 12:16:53,2023-08-02 10:47:15,Elegant pillow,Elegant pillow - Prepare course certainly.,32.22,23.84,True,False,1
+495,2020-08-26 05:54:43,2023-08-01 05:08:31,Practical file folder,Practical file folder - Brother instead adult forward total close.,229.8,194.14,False,True,10
+496,2021-08-23 20:17:36,2023-08-03 13:45:11,Entertaining playset,Entertaining playset - Necessary company station team deal protect read.,202.38,144.33,False,True,4
+497,2021-11-30 21:36:24,2023-08-01 15:16:55,Odorless thermometer,Odorless thermometer - Some board whom up business write.,152.87,136.97,False,True,5
+498,2020-03-08 17:53:33,2023-08-04 05:05:27,Pet-safe bird cage,Pet-safe bird cage - Agree hard bar thank north morning.,197.59,153.48,True,False,9
+499,2022-01-27 22:46:51,2023-08-02 17:02:35,Dazzling jeans,Dazzling jeans - Blood car body street realize a.,33.75,29.38,False,False,3
+500,2022-09-19 18:54:30,2023-08-04 01:36:58,Lightweight diaper bag,Lightweight diaper bag - Area center loss final fire station.,140.49,99.59,False,True,6
