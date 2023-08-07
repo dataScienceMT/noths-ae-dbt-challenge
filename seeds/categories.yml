@@ -1,0 +1,24 @@
+version: 2
+
+seeds:
+  - name: categories
+    config:
+      enabled: true
+      columns:
+        - name: id
+          description: Unique identifier for the category
+          type: integer
+          tests:
+            - unique
+        - name: created_at
+          description: Date of category creation
+          type: timestamp
+          tests:
+            - not_null
+        - name: updated_at
+          type: timestamp
+          description: Date of last update for the category
+        - name: name
+          description: Name of the category
+          tests:
+            - not_null
