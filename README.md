@@ -43,10 +43,10 @@ To help understand how you approach the problem, we will assess your use of sour
 5. Present your findings in an easy to understand manner (you can use any tool that would make this easiest, markup files, google slides, docs, diagrams, graphs, miro boards etc)
 
 ### Bonus Question:
-5. Oh no, it seems as if we haven't actually been discounting products when they are on sale.
+6. Oh no, it seems as if we haven't actually been discounting products when they are on sale.
   - Can you find an issue in our `fake_shop_data_generator.py` file and correct it?
   - How would we track when products go in and out of sale, and be able to test that this doesn't happen again in the future?
-6. Are there any other interesting insights you can share?
+7. Are there any other interesting insights you can share?
 
 ### Finally
 Email the URL of your repo to the NOTHS people team. Please ensure it is publicly accessible.
