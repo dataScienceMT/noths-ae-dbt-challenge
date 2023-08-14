@@ -14,7 +14,9 @@ A few staging models have been created in the models folder. There are some issu
 
 We make use of snowflake as our datawarehouse. If you want to run things yourself you can setup your own warehouse for free for 30 days here https://signup.snowflake.com/.
 Alternativley use a database that you are comfortable working in.
+
 You can choose to run this project in dbt cloud (Sign up for a free account here https://discover.getdbt.com/free-account/) or you can run it locally. (There are guides on dbt's website on how to do this.)
+
 If you would prefer to run dbt locally instead of in dbt cloud, using Deep Channel (https://www.deepchannel.com/) makes it a lot easier (gives the local dev process a bit of a dbt cloud experience). 
 Alternatively feel free to use any IDE you prefer.
 
@@ -25,7 +27,7 @@ Fork this repo.
 To help understand how you approach the problem, we will assess your use of source control and how you build to the final solution, checking what is committed along each step (hint: frequent push)
 
 ## Actions:
-1. Read the yml files in the seeds table to get a feel for the data. 
+1. Read the yml files in the seeds folder to get a feel for the data. 
 2. Fix any errors with the staging models and ensure that they all follow the same conventions.
 3. Create the necessary models (in the appropriate folder in the `models` folder) to answer the following questions. 
    In the documentation (yml files) for each of the models explain why you chose to model the data in that way. 
@@ -54,5 +56,7 @@ Email the URL of your repo to the NOTHS people team. Please ensure it is publicl
 
 ## Helpful Tips
 If you struggle completing the task or have concerns over certain aspects that is okay – just highlight it to us when you submit your task for evaluation.
+
 Explain what you couldn't get working and steps you took to solve the problem. Whilst we want to see completed tasks it is just as important for us to see how you approached an issue and attempted to find a solution.
+
 Do not overthink your solution. Keep it simple and use what you know. Write tests for your models.
