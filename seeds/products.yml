@@ -1,0 +1,49 @@
+version: 2
+
+seeds:
+  - name: products
+    config:
+      enabled: true
+      columns:
+        - name: id
+          description: Unique identifier for the product
+          type: integer
+          tests:
+            - unique
+        - name: created_at
+          description: Date of product creation
+          type: timestamp
+          tests:
+            - not_null
+        - name: updated_at
+          description: Date of last update for the product
+          type: timestamp
+        - name: name
+          description: Name of the product
+          type: timestamp
+          tests:
+            - not_null
+        - name: description
+          description: Description of the product
+        - name: price
+          description: Regular price of the product
+          type: float
+          tests:
+            - not_null
+        - name: sale_price
+          description: Sale price of the product
+          type: float
+        - name: in_stock
+          description: Availability of the product (True or False)
+          tests:
+            - not_null
+        - name: on_sale
+          description: Whether the product is on sale (True or False)
+          type: boolean
+          tests:
+            - not_null
+        - name: category_id
+          description: Category ID to link the product to its category
+          type: id
+          tests:
+            - not_null

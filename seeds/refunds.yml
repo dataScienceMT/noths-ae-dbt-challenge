@@ -1,0 +1,34 @@
+version: 2
+
+seeds:
+  - name: refunds
+    config:
+      enabled: true
+      columns:
+        - name: id
+          description: Unique identifier for the refund
+          type: integer
+          tests:
+            - unique
+        - name: created_at
+          description: Date of refund creation
+          type: timestamp
+          tests:
+            - not_null
+        - name: updated_at
+          description: Date of last update for the refund
+          type: timestamp
+        - name: order_id
+          description: Order ID associated with the refund
+          type: id
+          tests:
+            - not_null
+        - name: amount_refunded
+          description: Amount refunded for the order
+          type: float
+          tests:
+            - not_null
+        - name: refund_reason
+          description: Reason for the refund
+          tests:
+            - not_null

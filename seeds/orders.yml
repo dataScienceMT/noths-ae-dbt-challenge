@@ -1,0 +1,38 @@
+version: 2
+
+seeds:
+  - name: orders
+    config:
+      enabled: true
+      columns:
+        - name: id
+          description: Unique identifier for the order
+          type: integer
+          tests:
+            - unique
+        - name: created_at
+          description: Date of order creation
+          type: timestamp
+          tests:
+            - not_null
+        - name: updated_at
+          description: Date of last update for the order
+          type: timestamp
+        - name: customer_id
+          description: Customer ID associated with the order
+          type: integer
+          tests:
+            - not_null
+        - name: order_total
+          description: Total amount of the order
+          type: float
+          tests:
+            - not_null
+        - name: payment_method
+          description: Payment method used for the order
+          tests:
+            - not_null
+        - name: order_status
+          description: Status of the order ('pending', 'accepted', 'rejected', 'delivered', 'refunded')
+          tests:
+            - not_null

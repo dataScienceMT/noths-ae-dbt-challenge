@@ -1,0 +1,32 @@
+version: 2
+
+seeds:
+  - name: emails
+    config:
+      enabled: true
+      columns:
+        - name: id
+          description: Unique identifier for the email
+          tests:
+            - unique
+        - name: customer_id
+          description: Customer ID associated with the email
+          tests:
+            - not_null
+        - name: sent_date
+          description: Date when the email was sent
+          tests:
+            - not_null
+        - name: subject
+          description: Subject of the email
+          tests:
+            - not_null
+        - name: opened
+          description: Whether the email was opened (True or False)
+
+          tests:
+            - not_null
+        - name: clicked
+          description: Whether the email was clicked (True or False)
+          tests:
+            - not_null
